@@ -1,0 +1,3 @@
+
+covers run instructions, software/library dependencies and shareable link to the dataset (DO NOT include it in the GitHub repository).
+The dataset we're going to use is from https://www.kaggle.com/wojtekbonicki/bitcoin-data. This dataset recorded the bitcoin price and other related data from 12.2014 to 04.2020. We have uploaded the data on the github. The dataset need to be upload into the colab every time before running the code, but we are not sure whether it is till needed for ipynb file. The software we use includes pandas， numpy, seaborn, and matplotlib.pyplot. The library we use is keras.
